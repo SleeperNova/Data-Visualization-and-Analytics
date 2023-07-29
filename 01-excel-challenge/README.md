@@ -14,9 +14,7 @@ Getting funded on a crowdfunding website requires meeting or exceeding the proje
 
 ## Instructions
 
-![Crowdfunding Table](Images/FullTable.PNG)
-
-Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze the data of 1,000 example projects in an attempt to uncover market trends. 
+Using the Excel workbook provided, modify and analyze the data of 1,000 example projects in an attempt to uncover market trends. 
 
 * Dataset created by Trilogy Education Services, LLC.
 
@@ -31,13 +29,9 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 
   * Create two new columns, one called `Parent Category` and another called `Sub-Category`, that use formulas to split the `Category and Sub-Category` column into the two new, separate columns.
 
-  ![Category Stats](Images/CategoryStats.PNG)
-
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
   * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
-
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
@@ -48,8 +42,6 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
   * Create a new column named `Date Created Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `launched_at` into Excel's date format.
 
   * Create a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
-
-  ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
 
   * Create a new sheet with a pivot table with a column of `outcome`, rows of `Date Created Conversion`, values based on the count of `outcome`, and filters based on `parent category` and `Years`.
 
@@ -89,8 +81,6 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
   * 45000 to 49999
   * Greater than or equal to 50000
 
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
-
 * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
 * Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
@@ -104,8 +94,6 @@ Most people would use the number of campaign backers to assess the success of a 
 For those of you looking for an additional challenge, evaluate the number of backers of successful and unsuccessful campaigns by creating **your own** summary statistics table.
 
 * Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
-
-  ![Images/backers01.png](Images/backers01.png)
 
 * Use Excel to evaluate the following for successful campaigns, and then do the same for unsuccessful campaigns:
 
