@@ -1,0 +1,141 @@
+Option Explicit
+Sub sort()
+    ' defining variables
+    Dim table_height As Integer
+    Dim table_width As Integer
+    Const TICKER_COL As Integer = 1
+    Dim worksheet_count As Integer
+    Dim r As LongLong
+    Dim c As LongLong
+    Dim ws As Integer
+    Dim i As LongLong
+    Dim j As LongLong
+    Dim ticker As String
+    Dim ticker_num As Integer
+    Dim fdate As Long
+    Dim ldate As Long
+    Dim sum As LongLong
+    Dim open_ As Double
+    Dim close_ As Double
+    Dim good_change As Double
+    Dim bad_change As Double
+    Dim good_ticker As String
+    Dim bad_ticker As String
+    Dim volume_ticker As String
+    Dim biggest_sum As LongLong
+    Dim biggest_sum_ticker As String
+    
+    worksheet_count = Worksheets.Count
+    
+    ' iterating through worksheets
+    For ws = 1 To worksheet_count
+    
+        'initializing worksheet parameters
+        Worksheets(ws).Activate
+        r = Worksheets(ws).UsedRange.Rows.Count
+        c = Worksheets(ws).UsedRange.Columns.Count
+        fdate = 99999999
+        ldate = 0
+        ticker_num = 0
+        sum = 0
+        good_change = 0
+        bad_change = 0
+        biggest_sum = 0
+        
+        ' Naming table columns
+        Range("I1").Value = "Ticker"
+        Range("J1").Value = "Yearly Change"
+        Range("K1").Value = "Percent Change"
+        Range("L1").Value = "Total Stock Volume"
+        Range("O2").Value = "Greatest % Increase"
+        Range("O3").Value = "Greatest % Decrease"
+        Range("O4").Value = "Greatest Total Volume"
+        Range("P1").Value = "Ticker"
+        Range("Q1").Value = "Value"
+        
+        ' iterating through rows in sheet
+        For i = 2 To r
+            
+            ' Getting ticker value of row
+            ticker = Cells(i, 1).Value
+            
+            'calc sum
+            sum = sum + Cells(i, 7)
+            
+            ' Checking if row has a open or close value that needs to be recorded
+            If fdate > Cells(i, 2).Value Then
+                fdate = Cells(i, 2).Value
+                open_ = Cells(i, 3).Value
+            End If
+            If ldate < Cells(i, 2).Value Then
+                ldate = Cells(i, 2).Value
+                close_ = Cells(i, 6).Value
+            End If
+            
+            
+            'checking to make sure not the last row of ticker
+            If ticker = Cells(i + 1, 1).Value Then
+                ' do nothing
+                
+            ' finish last row ticker entry and increment ticker num
+            Else
+                
+                ' setting easy/moderate challenge values
+                Cells(2 + ticker_num, 9).Value = ticker
+                Cells(2 + ticker_num, 10).Value = close_ - open_
+                Cells(2 + ticker_num, 11).Value = (close_ - open_) / open_
+                Cells(2 + ticker_num, 12).Value = sum
+                
+                ' getting highest and lowest percents for bonus
+                If Cells(2 + ticker_num, 11).Value >= good_change Then
+                    good_change = Cells(2 + ticker_num, 11).Value
+                    good_ticker = ticker
+                End If
+                If Cells(2 + ticker_num, 11).Value <= bad_change Then
+                    bad_change = Cells(2 + ticker_num, 11).Value
+                    bad_ticker = ticker
+                End If
+                If Cells(2 + ticker_num, 12).Value >= biggest_sum Then
+                    biggest_sum = Cells(2 + ticker_num, 12).Value
+                    biggest_sum_ticker = ticker
+                End If
+                
+                ' formatting row color
+                If Cells(2 + ticker_num, 10).Value < 0 Then
+                    Cells(2 + ticker_num, 10).Interior.Color = RGB(255, 0, 0)
+                Else
+                    Cells(2 + ticker_num, 10).Interior.Color = RGB(0, 255, 0)
+                End If
+                
+                ' make percent column format
+                Cells(2 + ticker_num, 11).NumberFormat = "0.00%"
+                
+                ' Reset ticker variables
+                fdate = 99999999
+                ldate = 0
+                sum = 0
+                
+                 'next ticker
+                ticker_num = ticker_num + 1
+                
+            End If
+            
+        Next i
+        
+        ' reset the ticker_num row indexing value
+        ticker_num = 0
+        
+        ' setting bonus values
+        Range("P2").Value = good_ticker
+        Range("P3").Value = bad_ticker
+        Range("P4").Value = biggest_sum_ticker
+        Range("Q2").Value = good_change
+        Range("Q3").Value = bad_change
+        Range("Q4").Value = biggest_sum
+        
+        ' set percent format for hard challenge values
+        Range("Q2", "Q3").NumberFormat = "0.00%"
+        Range("Q4").NumberFormat = "0"
+        
+    Next ws
+End Sub
