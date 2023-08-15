@@ -49,7 +49,7 @@ print('----------------------------')
 print('Total Votes: ' + str(TotVotes))
 print('----------------------------')
 for i in range(0,len(Candidates)):
-    print(str(Candidates[i]) + ': ' + str(PercentVotes[i]) + '% ' + '(' + str(CandVotes[i])) + ')'
+    print(str(Candidates[i]) + ': ' + str(PercentVotes[i]) + '% ' + '(' + str(CandVotes[i]) + ')')
 print('----------------------------')
 print('Winner: ' + str(Winner))
 print('----------------------------')
