@@ -33,7 +33,7 @@ with open(csv_path) as csvfile:
 
 #create percentage list
     for i in range(0,len(PercentVotes)):
-        PercentVotes[i] =round((CandVotes[i]/TotVotes)*100,3)
+        PercentVotes[i] = round((CandVotes[i]/TotVotes)*100,3)
 
 #Determine winner
     MaxVotes = CandVotes[0]
@@ -60,10 +60,10 @@ OutputFile = os.path.join("analysis","PyPollOutput.txt")
 with open(OutputFile,"w") as datafile:
     datafile.writelines('Election Results''\n')
     datafile.writelines('----------------------------''\n')
-#    datafile.writelines(f"Total Votes: {TotVotes}""\n")
-#    datafile.writelines("----------------------------""\n")
-#    for i in range(0,len(Candidates)):
-#        datafile.writelines(f"{Candidates[i]}: {PercentVotes[i]}% ({CandVotes[i]})""\n")
-#    datafile.writelines("----------------------------""\n")
-#    datafile.writelines(f"Winner: {Winner}""\n")
-#    datafile.writelines("----------------------------""\n")
+    datafile.writelines('Total Votes: ' + str(TotVotes))
+    datafile.writelines('\n''----------------------------''\n')
+    for i in range(0,len(Candidates)):
+        datafile.writelines(str(Candidates[i]) + ': ' + str(PercentVotes[i]) + '% ' + '(' + str(CandVotes[i]) + ')')
+    datafile.writelines('\n''----------------------------')
+    datafile.writelines('\n''Winner: ' + str(Winner))
+    datafile.writelines('\n''----------------------------')
