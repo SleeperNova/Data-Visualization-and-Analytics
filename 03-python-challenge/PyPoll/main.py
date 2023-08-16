@@ -63,7 +63,7 @@ with open(OutputFile,"w") as datafile:
     datafile.writelines('Total Votes: ' + str(TotVotes))
     datafile.writelines('\n''----------------------------''\n')
     for i in range(0,len(Candidates)):
-        datafile.writelines(str(Candidates[i]) + ': ' + str(PercentVotes[i]) + '% ' + '(' + str(CandVotes[i]) + ')')
-    datafile.writelines('\n''----------------------------')
+        datafile.writelines(str(Candidates[i]) + ': ' + str(PercentVotes[i]) + '% ' + '(' + str(CandVotes[i]) + ') \n')
+    datafile.writelines('----------------------------')
     datafile.writelines('\n''Winner: ' + str(Winner))
     datafile.writelines('\n''----------------------------')
