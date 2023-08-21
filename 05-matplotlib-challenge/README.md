@@ -52,7 +52,6 @@ Create a DataFrame of summary statistics. Remember, there is more than one metho
 
 * A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
 
-## Create Bar Charts and Pie Charts
 # Generate two bar charts. 
 
 * Both charts should be identical and show the total number of time points for all mice tested for each drug regimen throughout the study.
