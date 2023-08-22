@@ -5,3 +5,4 @@
 03 - python-challenge : VS Code Python 3.11.0\
 04 - pandas-challenge : Jupyter Notebook 6.5.4\
 05 - matplotlib-challenge : Jupyter Notebook 6.5.4\
+06 - python-API-challenge : Jupyter Notebook 6.5.4
