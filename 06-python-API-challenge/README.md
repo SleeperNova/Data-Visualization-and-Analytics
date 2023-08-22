@@ -44,7 +44,7 @@ Download the following files to help you get started:
 Module 6 Challenge files
 
 
-## Instructions**
+## Instructions
 This activity is broken down into two parts, WeatherPy and VacationPy.
 
 ### ***Part 1: WeatherPy***
