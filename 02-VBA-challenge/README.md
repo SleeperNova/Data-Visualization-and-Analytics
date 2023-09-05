@@ -68,4 +68,4 @@ After saving your work, create a shareable link and submit the link to <https://
 
 - - -
 
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2023 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

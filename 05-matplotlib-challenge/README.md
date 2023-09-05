@@ -91,3 +91,7 @@ Select a mouse that was treated with Capomulin, and generate a line plot of tumo
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
 
 * Plot the linear regression model on top of the previous scatter plot.
+
+- - -
+
+© 2023 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

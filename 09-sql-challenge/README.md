@@ -104,5 +104,5 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
 
 - - -
 
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2023 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
