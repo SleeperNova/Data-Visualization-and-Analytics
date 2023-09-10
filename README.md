@@ -6,4 +6,5 @@
 04 - pandas-challenge : Jupyter Notebook 6.5.4\
 05 - matplotlib-challenge : Jupyter Notebook 6.5.4\
 06 - python-API-challenge : Jupyter Notebook 6.5.4\
-07-08 - project-1: Jupyter Notebook 6.5.4
+07-08 - project-1: Jupyter Notebook 6.5.4\
+09 - sql-challenge: PostgreSQL 15 | Jupyter Notebook 6.5.4
