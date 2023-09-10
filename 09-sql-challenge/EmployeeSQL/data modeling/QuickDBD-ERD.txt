@@ -1,34 +1,37 @@
 departments
 -
-dept_no PK VARCHAR(20)
-dept_name string(20) INDEX
+dept_no VARCHAR(255) PK
+dept_name VARCHAR(255)
+
 
 dept_emp
 -
-emp_no int FK >- employees.emp_no
-dept_no VARCHAR(20) FK >- departments.dept_no
+emp_no INT FK >- employees.emp_no
+dept_no VARCHAR(255) FK >- departments.dept_no
+
 
 dept_manager
 -
-dept_no VARCHAR(20) FK >- departments.dept_no
-emp_no int FK >- employees.emp_no
+dept_no VARCHAR(255) FK >- departments.dept_no
+emp_no INT PK FK >- employees.emp_no
+
 
 employees
 -
-emp_no PK int
-emp_title_id VARCHAR(20) FK >- titles.title_id
-birth_date DATE
-first_name string(20) INDEX
-last_name string(20)
-sex string(20)
-hire_date DATE
+emp_no INT PK 
+emp_title_id VARCHAR(30) FK >- titles.title_id
+birth_date date
+first_name VARCHAR(255)
+last_name VARCHAR(255)
+sex VARCHAR(255)
+hire_date date
 
 salaries
 -
-emp_no int FK - employees.emp_no
-salary int INDEX
+emp_no INT PK FK >- employees.emp_no
+salary INT
 
 titles
 -
-title_id PK VARCHAR
-title string(20)
+title_id VARCHAR(255) PK
+title VARCHAR(255)
