@@ -101,7 +101,7 @@ For an extra challenge, try the following:
 * Add extra visualizations. 
 * Use meaningful glyphicons next to the links in the header.
 
-* Have visualization navigation on every visualization page with an active state, as in the following screenshots.
+* Have visualization navigation on every visualization page with an active state.
 
 ## Rubric
 
