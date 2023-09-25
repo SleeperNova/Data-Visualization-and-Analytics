@@ -104,3 +104,7 @@ Hint: The London Local Authority has a longer name than "London" so you will nee
 Hint: You will need to compare the geocode to find the nearest locations. Search within 0.01 degree on either side of the latitude and longitude.
 
   4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
+
+- - -
+
+© 2023 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
