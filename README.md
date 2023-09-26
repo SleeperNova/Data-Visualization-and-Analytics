@@ -11,4 +11,5 @@
 10 - sqlalchemy-challenge: Python 3.11.4 | Jupyter Notebook 6.5.4\
 11 - web-design-challenge: HTML | CSS | Jupyter Notebook 6.5.4\
 12 - web-scraping-challenge: Jupyter Notebook 6.5.4\
-13 - project 2: Jupyter Notebook 6.5.4 | PostgreSQL 15
+13 - project 2: Jupyter Notebook 6.5.4 | PostgreSQL 15\
+14 - nosql-challenge: Jupyter Notebook 6.5.4 | MongoDB 4.2.24
