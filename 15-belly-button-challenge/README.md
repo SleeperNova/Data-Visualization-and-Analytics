@@ -15,13 +15,6 @@ NOTE:  You will not be required to access the samples.json file locally, but it 
 4. Push the above changes to GitHub.
 5. Deploy the new repository to GitHub Pages.
 
-##  <span style="color:yellow"> **Files** </span>
-
-Download the following files to help you get started:
-
-<a href = "https://static.bc-edx.com/data/dl-1-1/m14/lms/starter/Starter_Code_v1.zip " target = "_blank"> Module 15 Challenge files </a>
-
-
 ##  <span style="color:green">  **Instructions** </span>
 Complete the following steps:
 
