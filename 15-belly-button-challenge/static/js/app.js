@@ -111,7 +111,6 @@ function gaugeChart(id) {  //gauge
     });
 }
 
-
 function bubbleChart(id) {  //bubble
     d3.json(url).then(function(data) {
         // console.log(data);
