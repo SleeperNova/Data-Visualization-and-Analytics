@@ -90,7 +90,6 @@ function init(){
         buildMetadata(firstSample)
     })
 
-    
 }
 
 function optionChanged(newSample){
