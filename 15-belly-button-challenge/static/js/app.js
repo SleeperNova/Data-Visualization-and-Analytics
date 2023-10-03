@@ -44,8 +44,8 @@ function buildCharts(sample){
         ]
 
         let barLayout = {
-            title: "Top 10 Bacteria Cultures Found",
-            margin: {t: 30, l: 150}
+            title: "<br>Top 10 Bacteria Cultures Found",
+            margin: {t: 70, l: 150}
         }
 
         Plotly.newPlot("bar", barData, barLayout);

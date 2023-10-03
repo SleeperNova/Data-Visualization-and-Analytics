@@ -1,5 +1,6 @@
 function buildGauge(wfreq){
     let level = parseFloat(wfreq) * 20;
+    let pointer = parseFloat(wfreq);
 
     let degrees = 180 - level;
     let radius = 0.5;
@@ -22,8 +23,8 @@ function buildGauge(wfreq){
             marker: { size: 12, color: "850000"},
             showlegend: false,
             name: "Freq",
-            text: level,
-            hoverinfo: "text+name"
+            text: pointer,
+            hoverinfo: "text+name" //for null, displays NaN: not a number
         },
         {
             values: [50/9, 50/9, 50/9, 50/9, 50/9, 50/9, 50/9, 50/9, 50/9, 50],
