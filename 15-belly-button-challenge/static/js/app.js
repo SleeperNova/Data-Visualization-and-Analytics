@@ -4,7 +4,6 @@ function buildCharts(sample){
         let resultArray = samples.filter((sampleDictionary) => sampleDictionary.id == sample);
         let result = resultArray[0];
 
-
         let otuIDs =result.otu_ids;
         let otuLabels = result.otu_labels;
         let sampleValues = result.sample_values;
@@ -28,10 +27,7 @@ function buildCharts(sample){
                     color: otuIDs,
                     colorscale: "Earth"
                 }
-
             }
-    
-
         ]
 
         Plotly.newPlot("bubble", bubbleData, bubbleLayout);
