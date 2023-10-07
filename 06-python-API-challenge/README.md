@@ -192,5 +192,6 @@ Remember that any API usage beyond the $200 credit will be charged to your perso
 
 for more information.
 
-## References
+- - -
+
 © 2023 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
