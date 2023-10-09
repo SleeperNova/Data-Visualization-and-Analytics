@@ -42,7 +42,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
     * Create a legend that will provide context for your map data.
     * Your visualization should look something like the preceding map.
 
-###  <span style="color:tan">  **Part 2: Gather and Plot More Data (Optional with no extra points earning)** </span>
+###  <span style="color:tan">  **Part 2: Gather and Plot More Data (Optional)** </span>
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at <a href = "https://github.com/fraxen/tectonicplates" target = "_blank"> https://github.com/fraxen/tectonicplates </a> 
 
 This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
