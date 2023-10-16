@@ -14,4 +14,5 @@
 13 - project 2: Jupyter Notebook 6.5.4 | PostgreSQL 15\
 14 - nosql-challenge: Jupyter Notebook 6.5.4 | MongoDB 4.2.24\
 15 - belly-button-challenge: HTML | JavaScript\
-16 - leaflet-challenge: HTML | CSS | JavaScript
+16 - leaflet-challenge: HTML | CSS | JavaScript\
+17-18 - project-3
