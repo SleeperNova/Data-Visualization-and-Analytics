@@ -1,0 +1,302 @@
+Sport_Name,Name,Nationality,Current_Rank,Year,Earnings_Million
+1,Mike Tyson,United States,1,1990,28.6
+2,Buster Douglas,United States,2,1990,26.0
+3,Sugar Ray Leonard,United States,3,1990,13.0
+4,Ayrton Senna,Brazil,4,1990,10.0
+5,Alain Prost,France,5,1990,9.0
+6,Jack Nicklaus,United States,6,1990,8.6
+7,Greg Norman,Australia,7,1990,8.5
+8,Michael Jordan,United States,8,1990,8.1
+9,Arnold Palmer,United States,8,1990,8.1
+10,Evander Holyfield,United States,8,1990,8.1
+11,Evander Holyfield,United States,1,1991,60.5
+12,Mike Tyson,United States,2,1991,31.5
+13,Michael Jordan,United States,3,1991,16.0
+14,George Foreman,United States,4,1991,14.5
+15,Ayrton Senna,Brazil,5,1991,13.0
+16,Alain Prost,France,6,1991,11.0
+17,Donovan Ruddock,Canada,7,1991,10.2
+18,Arnold Palmer,United States,8,1991,9.3
+19,Nigel Mansell,United Kingdon,9,1991,9.0
+20,Sugar Ray Leonard,United States,10,1991,8.5
+21,Michael Jordan,United States,1,1992,35.9
+22,Evander Holyfield,United States,2,1992,28.0
+23,Ayrton Senna,Brazil,3,1992,22.0
+24,Nigel Mansell,United Kingdon,4,1992,14.5
+25,Arnold Palmer,United States,5,1992,11.1
+26,Andre Agassi,United States,6,1992,11.0
+27,Joe Montana,United States,7,1992,9.5
+28,Sugar Ray Leonard,United States,8,1992,9.2
+29,Jim Courier,United States,9,1992,9.0
+30,Monica Seles,United States,10,1992,8.5
+31,Michael Jordan,United States,1,1993,36.0
+32,Riddick Bowe,United States,2,1993,25.0
+33,Ayrton Senna,Brazil,3,1993,18.5
+34,Alain Prost,France,4,1993,16.0
+35,George Foreman,United States,5,1993,15.8
+36,Shaquille ONeal,United States,6,1993,15.2
+37,Lennox Lewis,United States,7,1993,15.0
+38,Cecil Fielder,United States,8,1993,12.7
+39,Jim Courier,United States,9,1993,12.6
+40,Joe Montana,United States,10,1993,11.5
+41,Michael Jordan,United States,1,1994,30.0
+42,Shaquille ONeal,United States,2,1994,16.7
+43,Jack Nicklaus,United States,3,1994,14.8
+44,Arnold Palmer,United States,4,1994,13.6
+45,Gerhard Berger,Austria,5,1994,13.5
+46,Wayne Gretzky,Canada,5,1994,13.5
+47,Michael Moorer,United States,7,1994,12.1
+48,Evander Holyfield,United States,8,1994,12.0
+49,Andre Agassi,United States,9,1994,11.4
+50,Nigel Mansell,United Kingdon,10,1994,11.3
+51,Michael Jordan,United States,1,1995,43.9
+52,Mike Tyson,United States,2,1995,40.0
+53,Deion Sanders,United States,3,1995,22.5
+54,Riddick Bowe,United States,4,1995,22.2
+55,Shaquille ONeal,United States,5,1995,21.9
+56,George Foreman,United States,6,1995,18.0
+57,Andre Agassi,United States,7,1995,16.0
+58,Sugar Ray Leonard,United States,8,1995,15.1
+59,Michael Schumacher,Germany,9,1995,15.0
+60,Wayne Gretzky,Canada,10,1995,14.5
+61,Mike Tyson,United States,1,1996,75.0
+62,Michael Jordan,United States,2,1996,52.6
+63,Michael Schumacher,Germany,3,1996,33.0
+64,Shaquille ONeal,United States,4,1996,24.4
+65,Emmit Smith,United States,5,1996,16.5
+66,Evander Holyfield,United States,6,1996,15.5
+67,Andre Agassi,United States,7,1996,15.2
+68,Arnold Palmer,United States,8,1996,15.1
+69,Dennis Rodman,United States,9,1996,12.9
+70,Patrick Ewing,United States,9,1996,12.9
+71,Michael Jordan,United States,1,1997,78.3
+72,Evander Holyfield,United States,2,1997,54.3
+73,Oscar De La Hoya,United States,3,1997,38.0
+74,Michael Schumacher,Germany,4,1997,35.0
+75,Mike Tyson,United States,5,1997,27.0
+76,Tiger Woods,United States,6,1997,26.1
+77,Shaquille ONeal,United States,7,1997,25.4
+78,Dale Earnhardt,United States,8,1997,19.1
+79,Joe Sakic,Canada,9,1997,17.9
+80,Grant Hill,United States,10,1997,17.0
+81,Michael Jordan,United States,1,1998,69.0
+82,Michael Schumacher,Germany,2,1998,38.0
+83,Sergei Federov,Russia,3,1998,29.8
+84,Tiger Woods,United States,4,1998,26.8
+85,Dale Earnhardt,United States,5,1998,24.1
+86,Grant Hill,United States,6,1998,21.6
+87,Oscar De La Hoya,United States,7,1998,18.5
+88,Patrick Ewing,United States,8,1998,18.3
+89,Arnold Palmer,United States,9,1998,18.1
+90,Gary Sheffield,United States,10,1998,17.2
+91,Michael Schumacher,Germany,1,1999,49.0
+92,Tiger Woods,United States,2,1999,47.0
+93,Oscar De La Hoya,United States,3,1999,43.5
+94,Michael Jordan,United States,4,1999,40.0
+95,Evander Holyfield,United States,5,1999,35.5
+96,Mike Tyson,United States,6,1999,33.0
+97,Shaquille ONeal,United States,7,1999,31.0
+98,Lennox Lewis,United States,8,1999,29.0
+99,Dale Earnhardt,United States,9,1999,26.5
+100,Grant Hill,United States,10,1999,23.0
+101,Michael Schumacher,Germany,1,2000,59.0
+102,Tiger Woods,United States,2,2000,53.0
+103,Mike Tyson,United States,3,2000,48.0
+104,Michael Jordan,United States,4,2000,37.0
+105,Grant Hill,United States,5,2000,26.0
+106,Dale Earnhardt,United States,6,2000,24.5
+107,Shaquille ONeal,United States,7,2000,24.0
+108,Lennox Lewis,United States,8,2000,23.0
+109,Oscar De La Hoya,United States,9,2000,23.0
+110,Kevin Garnett,United States,10,2000,21.0
+111,Tiger Woods,United States,1,2002,69.0
+112,Michael Schumacher,Germany,2,2002,67.0
+113,Michael Jordan,United States,3,2002,36.0
+114,Lennox Lewis,United States,4,2002,28.0
+115,Grant Hill,United States,5,2002,24.0
+116,Shaquille ONeal,United States,5,2002,24.0
+117,Mike Tyson,United States,7,2002,23.0
+118,Kevin Garnett,United States,7,2002,23.0
+119,Kobe Bryant,United States,9,2002,22.0
+120,Jacques Villeneuve,Canada,10,2002,20.0
+121,Jeff Gordon,United States,10,2002,20.0
+122,Tiger Woods,United States,1,2003,78.0
+123,Michael Schumacher,Germany,2,2003,75.0
+124,Michael Jordan,United States,3,2003,35.0
+125,Shaquille ONeal,United States,4,2003,30.5
+126,Oscar De La Hoya,United States,5,2003,30.0
+127,Kevin Garnett,United States,6,2003,28.0
+128,Alex Rodriguez,United States,7,2003,26.0
+129,Grant Hill,United States,8,2003,25.5
+130,Andre Agassi,United States,9,2003,24.0
+131,Jacques Villeneuve,Canada,10,2003,23.0
+132,Tiger Woods,United States,1,2004,80.3
+133,Michael Schumacher,Germany,2,2004,80.0
+134,Peyton Manning,United States,3,2004,42.0
+135,Michael Jordan,United States,4,2004,35.0
+136,Shaquille ONeal,United States,5,2004,31.9
+137,Kevin Garnett,United States,6,2004,29.7
+138,Andre Agassi,United States,7,2004,28.2
+139,David Beckham,United Kingdon,8,2004,28.0
+140,Alex Rodriguez,United States,9,2004,26.2
+141,Kobe Bryant,United States,10,2004,26.1
+142,Tiger Woods,United States,1,2005,87.0
+143,Michael Schumacher,Germany,2,2005,60.0
+144,Oscar De La Hoya,United States,3,2005,38.0
+145,Michael Vick,United States,4,2005,37.5
+146,Shaquille ONeal,United States,5,2005,33.4
+147,Michael Jordan,United States,6,2005,33.0
+148,David Beckham,United Kingdon,7,2005,32.5
+149,Kobe Bryant,United States,8,2005,28.8
+150,Lance Armstrong,United States,9,2005,28.0
+151,Valentino Rossi,Italy,9,2005,28.0
+152,Tiger Woods,United States,1,2006,90.0
+153,Michael Schumacher,Germany,2,2006,58.0
+154,Muhammad Ali,United States,3,2006,55.0
+155,Phil Mickelson,United States,4,2006,47.0
+156,Michael Jordan,United States,5,2006,32.0
+157,Kobe Bryant,United States,6,2006,31.0
+158,Shaquille ONeal,United States,7,2006,30.0
+159,Valentino Rossi,Italy,8,2006,30.0
+160,Alex Rodriguez,United States,9,2006,29.0
+161,Tom Brady,United States,9,2006,29.0
+162,Tiger Woods,United States,1,2007,100.0
+163,Oscar De La Hoya,United States,2,2007,43.0
+164,Phil Mickelson,United States,3,2007,42.0
+165,Kimi Raikkonen,Finland,4,2007,40.0
+166,Michael Schumacher,Germany,5,2007,36.0
+167,David Beckham,United Kingdon,6,2007,33.0
+168,Kobe Bryant,United States,6,2007,33.0
+169,Shaquille ONeal,United States,8,2007,32.0
+170,Ronaldinho,Brazil,9,2007,31.0
+171,Michael Jordan,United States,9,2007,31.0
+172,Tiger Woods,United States,1,2008,115.0
+173,David Beckham,United Kingdon,2,2008,50.0
+174,Michael Jordan,United States,3,2008,45.0
+175,Phil Mickelson,United States,3,2008,45.0
+176,Kimi Raikkonen,Finland,5,2008,44.0
+177,Kobe Bryant,United States,6,2008,39.0
+178,LeBron James,United States,7,2008,38.0
+179,Ronaldinho,Brazil,8,2008,37.0
+180,Valentino Rossi,Italy,9,2008,35.0
+181,Roger Federer,Switzerland,9,2008,35.0
+182,Tiger Woods,United States,1,2009,110.0
+183,Kobe Bryant,United States,2,2009,45.0
+184,Michael Jordan,United States,2,2009,45.0
+185,Kimi Raikkonen,Finland,2,2009,45.0
+186,David Beckham,United Kingdon,5,2009,42.0
+187,LeBron James,United States,6,2009,40.0
+188,Phil Mickelson,United States,6,2009,40.0
+189,Manny Pacquiao,Philippines,6,2009,40.0
+190,Valentino Rossi,Italy,9,2009,35.0
+191,Dale Earnhardt Jr.,United States,10,2009,34.0
+192,Tiger Woods,United States,1,2010,105.0
+193,Floyd Mayweather,United States,2,2010,65.0
+194,Kobe Bryant,United States,3,2010,48.0
+195,Phil Mickelson,United States,4,2010,46.0
+196,David Beckham,United Kingdon,5,2010,43.7
+197,Roger Federer,Switzerland,6,2010,43.0
+198,LeBron James,United States,7,2010,42.8
+199,Manny Pacquiao,Philippines,8,2010,42.0
+200,Eli Manning,United States,9,2010,39.9
+201,Terrell Suggs,United States,10,2010,38.3
+202,Tiger Woods,United States,1,2011,75.0
+203,Kobe Bryant,United States,2,2011,53.0
+204,LeBron James,United States,3,2011,48.0
+205,Roger Federer,Switzerland,4,2011,47.0
+206,Phil Mickelson,United States,5,2011,46.5
+207,David Beckham,United Kingdon,6,2011,40.0
+208,Cristiano Ronaldo,Portugal,7,2011,38.0
+209,Alex Rodriguez,Dominican,8,2011,35.0
+210,Michael Schumacher,Germany,9,2011,34.0
+211,Lionel Messi,Argentina,10,2011,32.3
+212,Floyd Mayweather,United States,1,2012,85.0
+213,Manny Pacquiao,Philippines,2,2012,62.0
+214,Tiger Woods,United States,3,2012,59.4
+215,LeBron James,United States,4,2012,53.0
+216,Roger Federer,Switzerland,5,2012,52.7
+217,Kobe Bryant,United States,6,2012,52.3
+218,Phil Mickelson,United States,7,2012,47.8
+219,David Beckham,United Kingdon,8,2012,46.0
+220,Cristiano Ronaldo,Portugal,9,2012,42.5
+221,Peyton Manning,United States,10,2012,42.4
+222,Tiger Woods,United States,1,2013,78.1
+223,Roger Federer,Switzerland,2,2013,71.5
+224,Kobe Bryant,United States,3,2013,61.9
+225,LeBron James,United States,4,2013,59.8
+226,Drew Brees,United States,5,2013,51.0
+227,Aaron Rodgers,United States,6,2013,49.0
+228,Phil Mickelson,United States,7,2013,48.7
+229,David Beckham,United Kingdon,8,2013,47.2
+230,Cristiano Ronaldo,Portugal,9,2013,44.0
+231,Lionel Messi,Argentina,10,2013,41.3
+232,Floyd Mayweather,United States,1,2014,105.0
+233,Cristiano Ronaldo,Portugal,2,2014,80.0
+234,LeBron James,United States,3,2014,72.3
+235,Lionel Messi,Argentina,4,2014,64.7
+236,Kobe Bryant,United States,5,2014,61.5
+237,Tiger Woods,United States,6,2014,61.2
+238,Roger Federer,Switzerland,7,2014,56.2
+239,Phil Mickelson,United States,8,2014,53.2
+240,Rafael Nadal,Spain,9,2014,44.5
+241,Matt Ryan,United States,10,2014,43.8
+242,Floyd Mayweather,United States,1,2015,300.0
+243,Manny Pacquiao,Philippines,2,2015,160.0
+244,Cristiano Ronaldo,Portugal,3,2015,79.6
+245,Lionel Messi,Argentina,4,2015,73.8
+246,Roger Federer,Switzerland,5,2015,67.0
+247,LeBron James,United States,6,2015,64.8
+248,Kevin Durant,United States,7,2015,54.2
+249,Phil Mickelson,United States,8,2015,50.8
+250,Tiger Woods,United States,9,2015,50.6
+251,Kobe Bryant,United States,10,2015,49.5
+252,Cristiano Ronaldo,Portugal,1,2016,88.0
+253,Lionel Messi,Argentina,2,2016,81.4
+254,LeBron James,United States,3,2016,77.2
+255,Roger Federer,Switzerland,4,2016,67.8
+256,Kevin Durant,United States,5,2016,56.2
+257,Novak Djokovic,Serbia,6,2016,55.8
+258,Cam Newton,United States,7,2016,53.1
+259,Phil Mickelson,United States,8,2016,52.9
+260,Jordan Spieth,United States,9,2016,52.8
+261,Kobe Bryant,United States,10,2016,50.0
+262,Cristiano Ronaldo,Portugal,1,2017,93.0
+263,LeBron James,United States,2,2017,86.2
+264,Lionel Messi,Argentina,3,2017,80.0
+265,Roger Federer,Switzerland,4,2017,64.0
+266,Kevin Durant,United States,5,2017,60.6
+267,Andrew Luck,United States,6,2017,50.0
+268,Rory McIlroy,Northern Ireland,6,2017,50.0
+269,Stephen Curry,United States,8,2017,47.3
+270,James Harden,United States,9,2017,46.6
+271,Lewis Hamilton,United Kingdon,10,2017,46.0
+272,Floyd Mayweather,United States,1,2018,285.0
+273,Lionel Messi,Argentina,2,2018,111.0
+274,Cristiano Ronaldo,Portugal,3,2018,108.0
+275,Conor McGregor,Ireland,4,2018,99.0
+276,Neymar,Brazil,5,2018,90.0
+277,LeBron James,United States,6,2018,85.5
+278,Roger Federer,Switzerland,7,2018,77.2
+279,Stephen Curry,United States,8,2018,76.9
+280,Matt Ryan,United States,9,2018,67.3
+281,Matthew Stafford,United States,10,2018,59.5
+282,Lionel Messi,Argentina,1,2019,127.0
+283,Cristiano Ronaldo,Portugal,2,2019,109.0
+284,Neymar,Brazil,3,2019,105.0
+285,Canelo Alvarez,Mexico,4,2019,94.0
+286,Roger Federer,Switzerland,5,2019,93.4
+287,Russell Wilson,United States,6,2019,89.5
+288,Aaron Rogers,United States,7,2019,89.3
+289,LeBron James,United States,8,2019,89.0
+290,Stephen Curry,United States,9,2019,79.8
+291,Kevin Durant,United States,10,2019,65.4
+292,Roger Federer,Switzerland,1,2020,106.3
+293,Cristiano Ronaldo,Portugal,2,2020,105.0
+294,Lionel Messi,Argentina,3,2020,104.0
+295,Neymar,Brazil,4,2020,95.5
+296,LeBron James,United States,5,2020,88.2
+297,Stephen Curry,United States,6,2020,74.4
+298,Kevin Durant,United States,7,2020,63.9
+299,Tiger Woods,United States,8,2020,62.3
+300,Kirk Cousins,United States,9,2020,60.5
+301,Carson Wentz,United States,10,2020,59.1
