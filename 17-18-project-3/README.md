@@ -48,3 +48,6 @@ Interactive 3D plot  showing total earnings per sport, per year since 1990. Spor
 # Conclusion
 * In conclusion, the Forbes Highest Paid Athletes 1990-2020 presentation showcases the remarkable growth of athlete earnings and highlights the integral role of endorsements and global events in shaping the sports industry's financial landscape.
 * It is evident that the world of sports has witnessed a paradigm shift in athlete earnings, demonstrating the immense potential for financial success through talent, brand endorsements, and strategic career choices.
+
+# Data Source
+- https://www.kaggle.com/datasets/parulpandey/forbes-highest-paid-athletes-19902019?resource=download
