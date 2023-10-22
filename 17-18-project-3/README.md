@@ -9,21 +9,28 @@ This presentation explores the evolution of athlete's earnings over three decade
 * United States has a dominance for the three-decade span of this data set 209 of the 300 athletes (68.44%). 
 * European Presence is high in the top 5 other countries, UK (13), Germany (13), Switzerland (12) and Portugal (10).
 * 1 Athlete from Australia – Greg Norman Golf in 1990.
+![NationalityHigestEarnings](images/NationalityHigestEarnings.png)
+![WorldMapAll](images/WorldMapAll.png) 
+![WorldMapExcludingUSA](images/WorldMapExcludingUSA.png)
 
 # Change In Athletes Revenue
 * On the right, we present a candle plot illustrating the upward trend in athlete salaries from 1990 to 2020.
 * In both 2015 and 2018, two outliers significantly impacted the data.
 * These outliers were attributed to Floyd Mayweather, who earned an extraordinary $285 million and $300 million in those respective years.
+![candle](images/candle.png)
 
 # Top Sports to Earn Most Money
 * Which sports get the biggest piece of pie? 
 Pie chart showing the Top 10 sports people earnings by percentage split by sport since 1990
 * How do sports compare over the years? 
 Interactive 3D plot  showing total earnings per sport, per year since 1990. Sport can be toggled on and off at legend to compare to each other and for clarity.
+![SportHighestEarnings](images/SportHighestEarnings.png)
+![totalearningsoftop10](images/totalearningsoftop10.png)
 
 # Top 10 Most Occurring Athletes
 * Showcases the 10 most frequently occurring athletes within the dataset, with the size of their bubble being a direct correspondent to this. 
 * At the forefront, we see Tiger Woods represented with the largest bubble, Tiger’s dominance of the golfing world for nearly 20 years earned him a cool 1.37 billion dollars.
+![bubble](images/bubble.png)
 
 # Key Take Aways
 * Tiger Woods dominates the list of Top ranked recently while earlier it was Michael Jordan.
