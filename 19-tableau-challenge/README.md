@@ -1,5 +1,9 @@
 # Tableau Homework - Citi Bike Analytics
 
+- - -
+Here is the link to the [workbook](https://public.tableau.com/app/profile/francisco.saavedra/viz/CitiBikeDashboard_16985412875120/CitiBikeAnalysis).
+- - -
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
