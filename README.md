@@ -19,3 +19,4 @@
 19 - tableau-challenge : Tableau 2023.3\
 20 - unsupervised-machine-learning-challenge: Jupyter Notebook 6.5.4\
 21 - supervised-machine-learning-challenge: Jupyter Notebook 6.5.4\
+22 - deep-learning-challenge: Jupyter Notebook 6.5.4\
