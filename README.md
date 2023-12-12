@@ -17,4 +17,5 @@
 16 - leaflet-challenge: HTML | CSS | JavaScript\
 17-18 - project-3: Jupyter Notebook 6.5.4 | Python 3.11.4 | PostgreSQL 15 | HTML | CSS | JavaScript\
 19 - tableau-challenge : Tableau 2023.3\
-20 - unsupervised-machine-learning-challenge: Jupyter Notebook 6.5.4 
+20 - unsupervised-machine-learning-challenge: Jupyter Notebook 6.5.4\
+21 - supervised-machine-learning-challenge: Jupyter Notebook 6.5.4\
