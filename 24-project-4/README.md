@@ -17,7 +17,7 @@ It is know that the Earth’s resources are limited. I will discover what energy
 
 Data cleaning will be done using Python Pandas to perform the ETL (Extract, Transform, and Load) process for the new cleaned csv files. This will allow me to make data driven decisions to investigate the premise of the project. 
 
-Prediction models for oil and gas energy production and consumption with Scikit-Learn (Machine Learning). I will train and test the prediction model based on historical data to gauge accuracy for future predictions based on trends. Tableau will be used to generate the visualizations to illustrate the narrative of the energy sources (oil and gas). To showcase our data analysis we will build a webpage using HTML, CSS, and Bootstrap to present all of our findings.
+Prediction models for oil and gas energy production and consumption with Scikit-Learn (Machine Learning). I will train and test the prediction model based on historical data to gauge accuracy for future predictions based on trends. Tableau will be used to generate the visualizations to illustrate the narrative of the energy sources (oil and gas). To showcase the data analysis I will build a webpage using HTML, CSS, and Bootstrap to present all of the findings.
 
 ## Programming Languages and Platforms
 * Python - Used to extract, transform and load (ETL) data sets and code machine learning models.
