@@ -29,8 +29,7 @@ Prediction models for oil and gas energy production and consumption with Scikit-
 * Tableau - Used to generate visualizations of data set and machine learning models.  Visualizations are embedded into website.
 
 ## Webpage
-If you would like to checkout our visualizations, visit our webpage:
-*Coming soon*
+If you would like to see the webpage click [here](https://sleepernova.github.io/Projects%20in%20HTML:CSS:JS/World%20Energy%20Consumption%20and%20Generation/index.html "here")
 
 ## Additional Resources
 [World Population](https://data.worldbank.org/indicator/SP.POP.TOTL?end=2019&start=2010/ "World Population")  
